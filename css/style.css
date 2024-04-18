@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(49, 84, 49);
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    width: 72vw;
+    height: auto;
+    border-radius: 5%;
+}
